@@ -13,7 +13,7 @@ Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+Input binary values via switches and the LED indices will yield a output
 
 ## External hardware
 
