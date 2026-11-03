@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A two input AND gate using Wowki and Tiny Tapeout.
 
 ## How to test
 
-Input binary values via switches and the LED indices will yield a output
+We will test it by running the simulation in Wowki.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No hardware is requiered.
